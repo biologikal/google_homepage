@@ -1,16 +1,4 @@
-#mainlogo {
+main * {
 	display: block;
 	margin: auto;
-}
-
-#search-input {
-	display: block;
-	margin: auto;
-	width: 70%;
-}
-
-#search-box {
-	display: block;
-	margin: auto;
-	width: 90%;
 }
