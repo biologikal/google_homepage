@@ -8,11 +8,15 @@
 }
 ********************************/
 
-/* Font */
+/* Global */
 
 body {
 	font-family: Arial, sans-serif;
 	font-size: 14px;
+}
+
+a {
+	text-decoration: none;
 }
 
 /* Nav bar */
@@ -31,7 +35,6 @@ nav li {
 #btn-signin {
 	background: rgb(26,115,232);
 	color: #fff;
-	text-decoration: none;
 	border-radius: 4px;
 	
 	padding: 9px 23px;
