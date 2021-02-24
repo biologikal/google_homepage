@@ -21,7 +21,7 @@ main * {
 	margin: auto;
 }
 
-/* Nav bars */
+/* Nav bar */
 
 nav ul{
 	list-style-type: none;
@@ -36,6 +36,28 @@ nav li {
 
 /* Footer */
 
+footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer * {
+	margin: auto;
+}
+
+footer {
+	flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
 footer li {
-	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+footer > div > ul {
+	display: flex;
 }
