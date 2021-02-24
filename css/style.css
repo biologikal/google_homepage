@@ -1,4 +1,24 @@
+/*	Mozilla appearance	*/
+
+/*******************************
+* {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+}
+********************************/
+
+/* Main */
+
 main * {
 	display: block;
 	margin: auto;
+}
+
+/* Nav bars */
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
