@@ -69,6 +69,13 @@ main * {
 
 /* Footer */
 
+footer {
+	flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
 footer ul {
 	list-style-type: none;
 	margin: 0;
@@ -77,13 +84,6 @@ footer ul {
 
 footer * {
 	margin: auto;
-}
-
-footer {
-	flex-wrap: wrap;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
 }
 
 footer li {
