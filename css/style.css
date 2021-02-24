@@ -42,7 +42,14 @@ nav li {
 }
 
 #appbox {
-	display: inline;
+	display: inline-block;
+	position: relative;
+	top: 7px;
+}
+
+#appbox-container {
+	width: 24px;
+	height: 24px;
 }
 
 #btn-signin {
