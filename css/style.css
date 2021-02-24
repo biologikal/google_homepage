@@ -12,11 +12,12 @@
 
 body {
 	font-family: Arial, sans-serif;
+	font-size: 14px;
 }
 
 /* Nav bar */
 
-nav ul{
+nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -25,6 +26,17 @@ nav ul{
 
 nav li {
 	display: inline;
+}
+
+#btn-signin {
+	background: rgb(26,115,232);
+	color: #fff;
+	text-decoration: none;
+	border-radius: 4px;
+	
+	padding: 9px 23px;
+	
+	font-size: 15px;
 }
 
 /* Main */
