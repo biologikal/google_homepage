@@ -14,13 +14,6 @@ body {
 	font-family: Arial, sans-serif;
 }
 
-/* Main */
-
-main * {
-	display: block;
-	margin: auto;
-}
-
 /* Nav bar */
 
 nav ul{
@@ -32,6 +25,13 @@ nav ul{
 
 nav li {
 	display: inline;
+}
+
+/* Main */
+
+main * {
+	display: block;
+	margin: auto;
 }
 
 /* Footer */
