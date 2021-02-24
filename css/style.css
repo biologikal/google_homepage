@@ -22,6 +22,11 @@ a {
 
 /* Nav bar */
 
+nav {
+	margin-top: 23px;
+	margin-bottom: 23px;
+}
+
 nav ul {
 	list-style-type: none;
 	margin: 0;
@@ -31,6 +36,7 @@ nav ul {
 
 nav li {
 	display: inline;
+	margin: 0px 6px;
 }
 
 #btn-signin {
@@ -39,8 +45,6 @@ nav li {
 	border-radius: 4px;
 	
 	padding: 9px 23px;
-	
-	font-size: 15px;
 }
 
 /* Main */
