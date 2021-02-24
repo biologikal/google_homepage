@@ -8,9 +8,7 @@
 }
 ********************************/
 /*////////////////////////////////////*/
-svg {
-	background-color: #0a0;
-}
+
 /*////////////////////////////////////*/
 /* Global */
 
@@ -41,6 +39,10 @@ nav ul {
 nav li {
 	display: inline;
 	margin: 0px 6px;
+}
+
+#appbox {
+	display: inline;
 }
 
 #btn-signin {
