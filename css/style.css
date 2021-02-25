@@ -74,6 +74,10 @@ main * {
 
 /* Main - Search Bar */
 
+.search {
+	width: 75%;
+}
+
 #search-box {
 	background-color: #0a0;
 	
@@ -90,10 +94,10 @@ main * {
 	
 	border: none;
 	
-	width: 85%;
-	height: 60%;
+	width: 82%;
+	height: 22px;
 	
-	margin-top: 2.7%;
+	margin-top: 11px;
 }
 
 #button-container {
