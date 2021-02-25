@@ -67,6 +67,16 @@ main * {
 	margin: auto;
 }
 
+/* Main - Search Bar */
+
+#search-box {
+	background-color: #0a0;
+}
+
+#search-input {
+	background-color: #00a;
+}
+
 /* Footer */
 
 footer {
