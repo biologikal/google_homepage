@@ -80,24 +80,18 @@ footer {
 	left: 0;
 	right: 0;
 	
-	background-color: #afafaf;
-}
-
-footer ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	background-color: rgba(0,0,0,.09);
 }
 
 footer * {
 	margin: auto;
 }
 
-footer li {
-	margin-left: 10px;
-	margin-right: 10px;
+footer div {
+	display: flex;
 }
 
-footer > div > ul {
-	display: flex;
+.footer-item {
+	display: block;
+	padding: 15px;
 }
