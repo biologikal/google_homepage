@@ -78,6 +78,17 @@ main * {
 
 /* Main - Search Bar */
 
+.mglass {
+	width: 20px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	
+	float: left;
+	margin-top: 13px;
+	margin-left: 13px;
+}
+
 .search {
 	width: 75%;
 }
