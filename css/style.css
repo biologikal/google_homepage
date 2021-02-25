@@ -10,6 +10,13 @@
 /*////////////////////////////////////*/
 
 /*////////////////////////////////////*/
+
+/* Selectors (hover, focus, etc)*/
+
+a:hover {
+	text-decoration: underline;
+}
+
 /* Global */
 
 body {
@@ -24,6 +31,10 @@ a {
 
 input {
 	outline: none;
+}
+
+button {
+	cursor: pointer;
 }
 
 /* Nav bar */
@@ -62,6 +73,7 @@ nav li {
 	border-radius: 4px;
 	
 	padding: 9px 23px;
+	text-decoration: none;
 }
 
 /* Main */
