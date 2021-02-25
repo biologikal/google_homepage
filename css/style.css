@@ -71,10 +71,23 @@ main * {
 
 #search-box {
 	background-color: #0a0;
+	
+	
 }
 
 #search-input {
 	background-color: #00a;
+	
+	
+}
+
+#button-container {
+	display: flex;
+	justify-content: center;
+}
+
+.main-buttons {
+	margin: 10px;
 }
 
 /* Footer */
