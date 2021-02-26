@@ -161,6 +161,8 @@ main * {
 	padding-top: 11px;
 	
 	font-size: 16px;
+	
+	background-color: transparent;
 }
 
 #button-container {
