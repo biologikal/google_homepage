@@ -104,6 +104,9 @@ nav li {
 main {
 	display: flex;
 	flex-direction: column;
+	
+	position: relative;
+	top: 14vh;
 }
 
 main * {
@@ -154,6 +157,9 @@ main * {
 #button-container {
 	display: flex;
 	justify-content: center;
+	
+	position: relative;
+	top: 20px;
 }
 
 .search-buttons {
