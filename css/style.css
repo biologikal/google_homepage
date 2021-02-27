@@ -11,6 +11,14 @@
 
 /*////////////////////////////////////*/
 
+/*  MEDIA QUERY  */
+
+@media (min-width: 600px) {
+	.search-bar {
+		width: 540px;
+	}
+}
+
 /*Pseudo-classes (hover, focus, etc)*/
 
 a:hover {
@@ -138,7 +146,7 @@ main * {
 
 .search {
 	width: 30%;
-	min-width: 540px;
+	min-width: 85vw;
 }
 
 #search-box {
